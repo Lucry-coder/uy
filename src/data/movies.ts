@@ -407,8 +407,8 @@ export const contentRows: ContentRow[] = [
       {
         ...movies.find(movie => movie.genre.includes('Thriller')) || movies[0],
         id: 'revenuecat-6',
-        title: 'Virtual Currency',
-        description: 'Developers can now define and manage up to 100 virtual currencies per project within RevenueCat, such as tokens, coins, or credits. This feature allows for enriched app experience.',
+        title: 'Web Push',
+        description: 'RevenueCat\'s SDK now supports web push subscription entitlements, enabling developers to manage browser-based subscriptions with the same ease as mobile. This update ensures subscription status is synced across web and mobile, offering a unified monetization experience for users. The seamless integration simplifies browser subscription management, eliminating the need for additional backend workflows.',
         thumbnail: '/src/assets/a_high-resolution_image_of_a_modern_smartphone_held_in_a_users_hand_displaying_an_in-app_dashboard__gm9cby3s5d29uti3ozxh_1.png',
         backdrop: '/src/assets/a_high-resolution_image_of_a_modern_smartphone_held_in_a_users_hand_displaying_an_in-app_dashboard__gm9cby3s5d29uti3ozxh_1.png',
         likes: 0,
@@ -416,8 +416,8 @@ export const contentRows: ContentRow[] = [
       {
         ...movies.find(movie => movie.genre.includes('Thriller')) || movies[0],
         id: 'revenuecat-7',
-        title: 'Offline Access',
-        description: 'RevenueCat\'s SDKs for iOS and Android now support Offline Entitlements, enabling users to access premium content even when RevenueCat servers are temporarily unreachable. This feature ensures uninterrupted user experience by caching subscription status locally.',
+        title: 'GDPR Deletion',
+        description: 'RevenueCat now offers a GDPR‑friendly subscriber deletion tool, enabling developers to automate erasure of user data via the dashboard or API. When users request removal of personal data, studios can now comply effortlessly—deleting subscriptions, purchase history, and associated metrics without manual intervention. This feature ensures legal compliance and improves user trust.',
         thumbnail: '/src/assets/ChatGPT Image 17 giu 2025, 12_26_12.png',
         backdrop: '/src/assets/ChatGPT Image 17 giu 2025, 12_26_12.png',
         likes: 0,
@@ -425,8 +425,8 @@ export const contentRows: ContentRow[] = [
       {
         ...movies.find(movie => movie.genre.includes('Thriller')) || movies[0],
         id: 'revenuecat-8',
-        title: 'Remote Paywalls',
-        description: 'With RevenueCatUI, developers can design and update paywalls directly from the RevenueCat dashboard without requiring code changes or app resubmissions. This tool streamlines the process of managing in-app purchase interfaces across platforms.',
+        title: 'Paris Summit',
+        description: 'A senior RevenueCat product manager will speak at the App Growth Summit (SaaSMonetization) in Paris in 2025, sharing insights on subscription trends, optimization tactics, and the latest platform roadmap. This engagement highlights RevenueCat\'s role as a thought leader in the app monetization space. Attendees can expect deep dives into paywall tactics, churn reduction strategies, and previews of upcoming features.',
         thumbnail: '/src/assets/a_sleek_futuristic_ui_dashboard_labeled_revenuecatui_displayed_on_a_glowing_laptop_screen_the_inter_p4scvgqk8i0ochailout_0.png',
         backdrop: '/src/assets/a_sleek_futuristic_ui_dashboard_labeled_revenuecatui_displayed_on_a_glowing_laptop_screen_the_inter_p4scvgqk8i0ochailout_0.png',
         likes: 0,
